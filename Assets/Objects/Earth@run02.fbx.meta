@@ -1,0 +1,357 @@
+fileFormatVersion: 2
+guid: 0dd8b2f03bbb0004f95de0092feb6169
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: be_chin_02
+    100002: be_L_finger
+    100004: be_L_toe
+    100006: be_R_finger
+    100008: be_R_toe
+    100010: be_top
+    100012: bn_body
+    100014: bn_chin_01
+    100016: bn_Hair_02
+    100018: bn_Hair_02 1
+    100020: bn_Hair_03
+    100022: bn_Hair_03 1
+    100024: bn_Hair_04
+    100026: bn_Hair_04 1
+    100028: bn_Hair_05
+    100030: bn_Hair_05 1
+    100032: bn_Hair_06
+    100034: bn_Hair_06 1
+    100036: bn_Hair_07
+    100038: bn_Hair_07 1
+    100040: bn_Hair_08
+    100042: bn_Hair_08 1
+    100044: bn_head
+    100046: bn_L_ankle
+    100048: bn_L_elbow
+    100050: bn_L_foot
+    100052: bn_L_forearm
+    100054: bn_L_Hair_01
+    100056: bn_L_hand
+    100058: bn_L_hip
+    100060: bn_L_knee
+    100062: bn_L_showlder
+    100064: bn_neck
+    100066: bn_R_ankle
+    100068: bn_R_elbow
+    100070: bn_R_foot
+    100072: bn_R_forearm
+    100074: bn_R_Hair_017
+    100076: bn_R_hand
+    100078: bn_R_hip
+    100080: bn_R_knee
+    100082: bn_R_showlder
+    100084: bn_spine_01
+    100086: bn_spine_02
+    100088: bn_spine_03
+    100090: bn_spine_04
+    100092: bn_spine_05
+    100094: body
+    100096: CC__L_hair_1
+    100098: CC_BODY
+    100100: CC_hair_L_2
+    100102: CC_hair_L_3
+    100104: CC_HIP
+    100106: CC_L_ARM
+    100108: CC_L_ELBOW
+    100110: CC_L_FOOT
+    100112: CC_L_hair_4
+    100114: CC_L_HAND
+    100116: CC_L_KNEE
+    100118: CC_MAIN
+    100120: CC_NECK
+    100122: CC_R_ARM
+    100124: CC_R_ELBOW
+    100126: CC_R_FOOT1
+    100128: CC_R_hair_1
+    100130: CC_R_hair_2
+    100132: CC_R_hair_3
+    100134: CC_R_hair_4
+    100136: CC_R_HAND
+    100138: cc_R_Knee
+    100140: CC_SHOWLDERS
+    100142: CC_WAIST
+    100144: coat
+    100146: //RootNode
+    100148: Earth_geometry
+    100150: Earth_skeleton
+    100152: Hair
+    100154: hair_L_cluster3
+    100156: hair_L_cluster4
+    100158: hair_L_cluster_1
+    100160: hair_L_cluster_2
+    100162: hair_L_curve
+    100164: hair_R_cluster_1
+    100166: hair_R_cluster_2
+    100168: hair_R_cluster_3
+    100170: hair_R_cluster_4
+    100172: hair_R_curve
+    100174: head_acsess
+    100176: ik_L_hair
+    100178: ik_R_hair
+    100180: ik_Sprine
+    100182: LEye
+    100184: lowerbackCluster
+    100186: middleCluster
+    100188: REye
+    100190: root_L_foot
+    100192: root_L_foot2
+    100194: root_L_foot3
+    100196: root_L_foot4
+    100198: root_R_foot2
+    100200: root_R_foot3
+    100202: root_R_foot4
+    100204: root_R_foot5
+    100206: rp_L_arm
+    100208: rp_L_foot
+    100210: rp_L_hand
+    100212: rp_L_leg
+    100214: rp_L_toe
+    100216: rp_R_arm
+    100218: rp_R_foot
+    100220: rp_R_hand
+    100222: rp_R_leg
+    100224: rp_R_toe
+    100226: spine_curve
+    100228: transform5
+    100230: transform6
+    100232: upperbackCluster
+    400000: be_chin_02
+    400002: be_L_finger
+    400004: be_L_toe
+    400006: be_R_finger
+    400008: be_R_toe
+    400010: be_top
+    400012: bn_body
+    400014: bn_chin_01
+    400016: bn_Hair_02
+    400018: bn_Hair_02 1
+    400020: bn_Hair_03
+    400022: bn_Hair_03 1
+    400024: bn_Hair_04
+    400026: bn_Hair_04 1
+    400028: bn_Hair_05
+    400030: bn_Hair_05 1
+    400032: bn_Hair_06
+    400034: bn_Hair_06 1
+    400036: bn_Hair_07
+    400038: bn_Hair_07 1
+    400040: bn_Hair_08
+    400042: bn_Hair_08 1
+    400044: bn_head
+    400046: bn_L_ankle
+    400048: bn_L_elbow
+    400050: bn_L_foot
+    400052: bn_L_forearm
+    400054: bn_L_Hair_01
+    400056: bn_L_hand
+    400058: bn_L_hip
+    400060: bn_L_knee
+    400062: bn_L_showlder
+    400064: bn_neck
+    400066: bn_R_ankle
+    400068: bn_R_elbow
+    400070: bn_R_foot
+    400072: bn_R_forearm
+    400074: bn_R_Hair_017
+    400076: bn_R_hand
+    400078: bn_R_hip
+    400080: bn_R_knee
+    400082: bn_R_showlder
+    400084: bn_spine_01
+    400086: bn_spine_02
+    400088: bn_spine_03
+    400090: bn_spine_04
+    400092: bn_spine_05
+    400094: body
+    400096: CC__L_hair_1
+    400098: CC_BODY
+    400100: CC_hair_L_2
+    400102: CC_hair_L_3
+    400104: CC_HIP
+    400106: CC_L_ARM
+    400108: CC_L_ELBOW
+    400110: CC_L_FOOT
+    400112: CC_L_hair_4
+    400114: CC_L_HAND
+    400116: CC_L_KNEE
+    400118: CC_MAIN
+    400120: CC_NECK
+    400122: CC_R_ARM
+    400124: CC_R_ELBOW
+    400126: CC_R_FOOT1
+    400128: CC_R_hair_1
+    400130: CC_R_hair_2
+    400132: CC_R_hair_3
+    400134: CC_R_hair_4
+    400136: CC_R_HAND
+    400138: cc_R_Knee
+    400140: CC_SHOWLDERS
+    400142: CC_WAIST
+    400144: coat
+    400146: //RootNode
+    400148: Earth_geometry
+    400150: Earth_skeleton
+    400152: Hair
+    400154: hair_L_cluster3
+    400156: hair_L_cluster4
+    400158: hair_L_cluster_1
+    400160: hair_L_cluster_2
+    400162: hair_L_curve
+    400164: hair_R_cluster_1
+    400166: hair_R_cluster_2
+    400168: hair_R_cluster_3
+    400170: hair_R_cluster_4
+    400172: hair_R_curve
+    400174: head_acsess
+    400176: ik_L_hair
+    400178: ik_R_hair
+    400180: ik_Sprine
+    400182: LEye
+    400184: lowerbackCluster
+    400186: middleCluster
+    400188: REye
+    400190: root_L_foot
+    400192: root_L_foot2
+    400194: root_L_foot3
+    400196: root_L_foot4
+    400198: root_R_foot2
+    400200: root_R_foot3
+    400202: root_R_foot4
+    400204: root_R_foot5
+    400206: rp_L_arm
+    400208: rp_L_foot
+    400210: rp_L_hand
+    400212: rp_L_leg
+    400214: rp_L_toe
+    400216: rp_R_arm
+    400218: rp_R_foot
+    400220: rp_R_hand
+    400222: rp_R_leg
+    400224: rp_R_toe
+    400226: spine_curve
+    400228: transform5
+    400230: transform6
+    400232: upperbackCluster
+    4300000: LEye
+    4300002: coat
+    4300004: REye
+    4300006: head_acsess
+    4300008: body
+    4300010: Hair
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: body
+    13700002: coat
+    13700004: Hair
+    13700006: head_acsess
+    13700008: LEye
+    13700010: REye
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: coat1
+    second: {fileID: 2100000, guid: e34b035d8d5a22040ba95374f2debbdd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hair
+    second: {fileID: 2100000, guid: ec7e2484a2714ee4b9f7df2b60ebc795, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert1
+    second: {fileID: 2100000, guid: ef98f0f48434a1f4eae05dad1b28d827, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: phong2
+    second: {fileID: 2100000, guid: 2bac47c8f4293fe42ba3021d505216a0, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
